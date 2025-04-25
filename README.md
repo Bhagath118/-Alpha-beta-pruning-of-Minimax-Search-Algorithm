@@ -1,4 +1,4 @@
-[# ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+# ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 ### Name: A.BHAGATHKRISHNA
 ### Register Number: 212223230029
 
@@ -212,4 +212,3 @@ if __name__ == "__main__":
 ## Result:
 Hence Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game has been implemented.
 
-](https://github.com/Bhagath118/-Alpha-beta-pruning-of-Minimax-Search-Algorithm.git)
